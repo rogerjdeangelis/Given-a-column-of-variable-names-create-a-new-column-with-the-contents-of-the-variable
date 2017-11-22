@@ -19,7 +19,7 @@ Assign value using variable containing names of variables (vvaluex). Given a col
     ```      1     1    2    3    A    |    1      contents of A                                                                                                      ```
     ```      2     1    2    3    B    |    2      contents of B                                                                                                      ```
     ```      3     4    5    6    A    |    4      contents of A                                                                                                      ```
-    ```      4     4    5    6    C    |    6      contents of A                                                                                                      ```
+    ```      4     4    5    6    C    |    6      contents of C                                                                                                      ```
     ```                                |                                                                                                                              ```
     ```                                                                                                                                                               ```
     ```  PROCESS                                                                                                                                                      ```
