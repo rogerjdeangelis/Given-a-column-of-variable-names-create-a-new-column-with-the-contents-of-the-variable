@@ -9,14 +9,14 @@ https://communities.sas.com/t5/Base-SAS-Programming/Assign-value-using-variable-
 INPUT
 =====
 
-  WORK.HAVE total obs=4       |    RULES (want additional variable VAR
+  WORK.HAVE total obs=4       |    RULES (want additional variable VAR)
                               |
    Obs    A    B    C    V    |   VAR
                               |
     1     1    2    3    A    |    1      contents of A
     2     1    2    3    B    |    2      contents of B
     3     4    5    6    A    |    4      contents of A
-    4     4    5    6    C    |    6      contents of A
+    4     4    5    6    C    |    6      contents of C
                               |
 
 PROCESS
